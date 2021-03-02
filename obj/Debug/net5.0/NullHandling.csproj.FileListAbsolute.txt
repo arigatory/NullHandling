@@ -1,0 +1,16 @@
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.deps.json
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.json
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.dev.json
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.dll
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/ref/NullHandling.dll
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/bin/Debug/net5.0/NullHandling.pdb
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csprojAssemblyReference.cache
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfoInputs.cache
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfo.cs
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.csproj.CoreCompileInputs.cache
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.dll
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/ref/NullHandling.dll
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.pdb
+/home/arigatory/Learn/dotNET/Code/Chapter02/NullHandling/obj/Debug/net5.0/NullHandling.genruntimeconfig.cache
